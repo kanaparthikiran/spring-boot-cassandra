@@ -1,0 +1,1 @@
+# Sample project built using spring-boot-cassandra
